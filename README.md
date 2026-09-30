@@ -1,3 +1,11 @@
+# Azure Governance Visualizer
+
+[English](README.md) | [日本語](README.ja.md)
+
+PowerShell-based Azure governance reporting across management groups and subscriptions, including hierarchy, Azure Policy, RBAC, and scope-level insights.
+
+---
+
 # Azure Governance Visualizer aka AzGovViz
 
 Do you want to get granular insights on your technical Azure Governance implementation? - document it in CSV, HTML, Markdown and JSON?  
